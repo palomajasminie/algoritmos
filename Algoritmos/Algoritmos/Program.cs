@@ -4,7 +4,14 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Olá Paloma!");
+            string diaSemana = "Domingo";
+
+            switch (diaSemana)
+
+
+            {
+                case "Segunda":
+                    Console.WriteLine("Hoje é Segunda-Feira")
+            }
         }
     }
-}
